@@ -1,10 +1,10 @@
-# Aula 5
+# Aula 6
 
-* Consultas com Spring Data
-* Criar um endpoint de paginação
-* Métodos Spring Data
-* Métodos customizados
-* Query com like
+* Utilizando o @DBRef
+* CRUD 
+* Referência de documentos
+* Salvar referências
+
 
 
 
